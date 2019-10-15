@@ -1,2 +1,2 @@
-# [https://seujob.github.io](https://seujob.github.io)
-![https://seujob.github.io](logo.png)
+# [https://seujob.github.io/hot](https://seujob.github.io/hot)
+![https://seujob.github.io/hot](logo.png)
